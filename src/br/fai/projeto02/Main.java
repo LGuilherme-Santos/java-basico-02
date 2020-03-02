@@ -24,6 +24,11 @@ public class Main {
 		
 		System.out.println("O valor com casas decimais: " + valor + " | valor inteiro: " + valorComCast);
 		
+		int novoValor = 10;
+		double valorConvertido = novoValor;
+		
+		System.out.println("Novo: " + novoValor + " valor convertido: " + valorConvertido);
+		
 	}
 
 
